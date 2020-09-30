@@ -1,3 +1,11 @@
 hiiiiiiii
 its madhuri here.
 this is conflict handling by madhuri.
+
+
+
+This line is having conflict1 ;
+
+
+This line is having conflict1 
+
