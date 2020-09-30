@@ -4,7 +4,15 @@ this is conflict handling by madhuri.
 
 
 
+//  "<<<<<<< HEAD" IT IS CONFLICT MARK AFTER GIT PUSH COMMAND
 This line is having conflict;
 
 
 This line is having conflict;
+// "=======" IT IS CONFLICT MARK AFTER GIT PUSH COMMAND
+This line is having conflict1 ;
+
+
+This line is having conflict1 
+
+// ">>>>>>> 5ddb7c3a4c848ff46e0eeff20236e8e0771c9498" .>>>>>>> branchname IT IS CONFLICT MARK AFTER GIT PUSH COMMAND
